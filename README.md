@@ -3,6 +3,8 @@ LunchBarLy
 
 Menu bar item for lunch!
 
+![Screenshot](http://kbarrette.github.com/lunchbarly/images/screenshot.png)
+
 Building
 --------
 1. Have PyObjC and py2app installed
