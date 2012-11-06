@@ -11,7 +11,7 @@ from datetime import datetime
 from AppKit import *
 from PyObjCTools import AppHelper
 
-TIME_FORMAT = "%%(dayname)s %w %b %d %l:%M %p"
+TIME_FORMAT = "%%(dayname)s %b %d %l:%M %p"
 TIMER_INTERVAL = 20
 DAY_NAMES = [
   "Ruebisday",
