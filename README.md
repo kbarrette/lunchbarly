@@ -1,5 +1,5 @@
-lunchly
-=======
+LunchBarLy
+==========
 
 Menu bar item for lunch!
 
